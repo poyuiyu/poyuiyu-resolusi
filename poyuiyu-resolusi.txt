@@ -1,6 +1,9 @@
 poyuiyu RESOLUSI
 - Konsisten Belajar AI, Data Analisis, Optimasi
 - Fokus Belajar CPNS agar lulus CPNS
+  - TWK
 - Perang Melawan Stutter
+  - Latihan
 - S2 Informatika
 - Fundamental
+- Python
